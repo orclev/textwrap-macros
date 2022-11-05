@@ -7,8 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-[Unreleased]: https://github.com/althonos/textwrap-macros/compare/v0.2.5...HEAD
+### Changed
+- Added support for no_std usage.
 
+[Unreleased]: https://github.com/althonos/textwrap-macros/compare/v0.2.5...HEAD
 
 ## [v0.2.5] - 2021-02-18
 
